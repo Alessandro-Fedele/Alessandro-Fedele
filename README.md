@@ -10,7 +10,7 @@
 
 hi, i'm **Alessandro Fedele** >> jr full-stack web dev && web designer from Italy <br/>
 I'm really interested in open source and everything related to sharing ideas and knowledge with other people. <br/>
-I love movies, books, rice and coding obvs! I love to think and realize what I think.
+I love movies, books, music, rice and coding obvs! I love to think and realize what I think.
 
 - 🔭 I’m currently focussed on: 
 &nbsp;&nbsp;
